@@ -1,5 +1,0 @@
-blue_octocat
-
-My first file for the git repository
-
-Changed 20:58 24.08.2014
