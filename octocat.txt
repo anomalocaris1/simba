@@ -1,1 +1,5 @@
 My first file for the git repository
+
+changed in eclipse - 20:52 - 02.09.2014
+
+
